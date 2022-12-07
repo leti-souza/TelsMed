@@ -19,8 +19,9 @@ idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a
 - [Rotas](#rotas)
 
 
-## **ProbleRotas**
+## **Problema**
 
+## **Tema**
 
 ## **Rotas**
 Esta API está sendo executada na `porta 9095` e para que todas as rotas possam ser acessadas localmente é necessário usar `http://localhost:9095/` antes dos endpoints de requisição.
@@ -42,6 +43,21 @@ Esta API está sendo executada na `porta 9095` e para que todas as rotas possam 
 |GET | /medicacao | Retorna uma lista com todas as medicações cadastradas no app|
 |PATCH | /medicacao/:id | Atualiza os dados da medicação escolhida|
 |DELETE | /medicacao/:id | Deleta a medicação escolhida do aplicativo|
+
+
+##
+
+#### **Implementações futuras**
+
+- [ ] Integração ao front-end 
+- [ ] Testes
+
+##
+
+_O aplicativo TelsMed, é um app fictício para a elaboração do projeto final de conclusão do bootcamp {reprograma}_
+
+##
+
 
 
 Conecte-se comigo! 
