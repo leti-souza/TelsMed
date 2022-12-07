@@ -3,14 +3,22 @@
 <img alt="TELSMED-LOGO" height="150" width="250"  src="TELSMED-LOGO.png"><br> 
 </h3>
 
+<div align = "center">
 
-<!-- # Projeto-Final-TelsMe -->
-<!-- Projeto Final da Reprograma Back-end -->
+> Projeto final para o bootcamp {reprograma} back-end. Aplicativo voltado para auxiliar
+idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a apresentação 
+<!-- [aqui!](https://www.canva.com/design/DAFHis5Rtuc/1UVpdijDOwMYiR4ux6eQWQ/view?utm_content=DAFHis5Rtuc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 
-#### **Sobre a API**
+</div>
 
+#  📑 Sumário
 
-#### **Rotas**
+- [Problema](#problema)
+- [Solução](#solução)
+- [Tema](#tema)
+- [Rotas](#rotas)
+
+## Rotas
 Esta API está sendo executada na `porta 9095` e para que todas as rotas possam ser acessadas localmente é necessário usar `http://localhost:9095/` antes dos endpoints de requisição.
 
 |VERBO | ENDPOINT | DESCRIÇÃO|
