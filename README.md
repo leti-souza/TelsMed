@@ -11,14 +11,18 @@ idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a
 
 </div>
 
-#  📑 Sumário
+#  📑 **Sumário**
 
 - [Problema](#problema)
 - [Solução](#solução)
 - [Tema](#tema)
 - [Rotas](#rotas)
 
-## Rotas
+
+## **ProbleRotas**
+
+
+## **Rotas**
 Esta API está sendo executada na `porta 9095` e para que todas as rotas possam ser acessadas localmente é necessário usar `http://localhost:9095/` antes dos endpoints de requisição.
 
 |VERBO | ENDPOINT | DESCRIÇÃO|
@@ -38,3 +42,13 @@ Esta API está sendo executada na `porta 9095` e para que todas as rotas possam 
 |GET | /medicacao | Retorna uma lista com todas as medicações cadastradas no app|
 |PATCH | /medicacao/:id | Atualiza os dados da medicação escolhida|
 |DELETE | /medicacao/:id | Deleta a medicação escolhida do aplicativo|
+
+
+Conecte-se comigo! 
+
+<div>
+  <a href = "mailto: leticia.souzaprogramacao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticia--araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+
+##
