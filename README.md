@@ -1,6 +1,6 @@
 
 <h3 align="center"> 
-<img alt="TELSMED-LOGO" height="100" width="200"  src="TELSMED-LOGO.png"><br> 
+<img alt="TELSMED-LOGO" height="150" width="250"  src="TELSMED-LOGO.png"><br> 
 </h3>
 
 
