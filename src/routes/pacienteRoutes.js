@@ -15,6 +15,6 @@ router.post("/criarpaciente", pacienteController.criarPaciente);//ok
 router.get("/buscarpacientes",pacienteController.buscarTodosPacientes); // ok
 router.get("/paciente/:id", pacienteController.buscarPacienteId); //ok
 router.patch("/:id", checkAuth, pacienteController.atualizarPaciente); //ok
-router.delete("/:id", checkAuth, pacienteController.deletarPaciente)
+router.delete("/:id", checkAuth, pacienteController.deletarPaciente)// ok
 
 module.exports = router;

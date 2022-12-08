@@ -1,4 +1,4 @@
-const express = require('express'); // o express não é reconhecido nessa linha
+const express = require('express'); 
 const app = express();
 const cors = require('cors');
 

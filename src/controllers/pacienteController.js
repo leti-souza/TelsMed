@@ -31,7 +31,7 @@ const criarUsuario = async (request, response) => { // ok
         })
     }
 }
-const getAll = async (req, res) => { 
+const getAll = async (req, res) => {  //ok
     UserSchema.find(function (err, users) {
       if (err) {
         res.status(500).send({ message: err.message })
