@@ -15,8 +15,7 @@ idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a
 
 - [Tema](#tema)
 - [Problema](#problema)
-- [Solução](#solução)
-
+- [Arquitetura](#arquitetura)
 - [Rotas](#rotas)
 
 
