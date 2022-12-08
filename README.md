@@ -67,6 +67,8 @@ Esta API está sendo executada na `porta 9095` e para que todas as rotas possam 
 
 - [ ] Integração ao front-end 
 - [ ] Testes
+- [ ] Desenvolvimento do Alarme
+- [ ] Desenvolvimento de Registro/cadastramento de Receita - scanner e foto
 
 ##
 
