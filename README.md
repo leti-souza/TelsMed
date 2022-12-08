@@ -20,10 +20,11 @@ idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a
 
 
 ## **Tema**
-TelsMed - Minha Farmácia! É uma API que visa para auxiliar idosos e/ou seus responsáveis na utilização correta dos medicamentos no dia-a-dia.
+TelsMed - Minha Farmácia! É uma API que visa para auxiliar idosos e/ou seus responsáveis na utilização correta dos medicamentos no dia-a-dia.A escolha desse tema é uma forma de homenagear a minha avó materna, Telma Araújo, que por muitos anos utilizou medicamentos para controlar a hipertensão. 
 
 ## **Problema**
-De acordo com uma pesquisa de campo realizada com três agentes de saúde da Upinha Alto do Pascoal e os dados informados pelas mesmas. as áreas cuja ambas são responsáveis possuem cerca de 2.500 pessoas e 70% dessas são idosos. Ainda de acordo com esses dados, foi constatado que cerca de 65% dos idosos não tomam seus medicamentos corretamente, e os motivos mais citados por eles e as agentes de saúde, que levam a essa má utilização dos medicamentos foram os seguintes:
+De acordo com uma pesquisa de campo realizada com três agentes de saúde da Upinha Alto do Pascoal, situada na comunidade do Alto do Pascoal no bairro de água fria - Recife/PE. 
+De acordo com os dados informados pelas agentes, cuja as áreas que ambas são responsáveis possuem cerca de 2.500 pessoas e 70% dessas são idosos. Esta pesquisa levou em consideração as respostas das agentes de saúde e dos respectivos idosos e/ou seus responsáveis. De acordo com os dados coletados, foi constatado que cerca de 65% desses idosos não tomam seus medicamentos corretamente, e os motivos mais citados por eles e?ou seus responsáveis e as agentes de saúde, que levam a essa má utilização dos medicamentos foram os seguintes:
 
 - 8% Não sabem ler, são analfabetos,
 - 35% Se confundem na hora tomar os medicamentos, principalmente se for mais de 02 tipos de medicamentos diferentes durante o dia,
