@@ -39,7 +39,7 @@ const MedicacaoSchema = new mongoose.Schema({
             required: true
         },
         horarios: {
-            type: String,
+            type: Number,
             required: true
         },
         figura_e_horario: {

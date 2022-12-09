@@ -38,6 +38,47 @@ Esse projeto foi construído utilizando a arquitetura MVC, acrônimo para Model-
 
 O servidor, criado dentro do repositório TelsMed, conta com a seguinte estrutura:
 
+    \--📂 TelsMed
+        |
+        |    .env
+        |    .env.example
+        |    .gitiignore
+        |    package-lock.json
+        |    package.json
+        |    README.md
+        |    server.js
+        |    TELSMED-LOG.png
+        |
+        |--📂src
+              |
+              |  app.js
+              |
+              📂---config
+                  |
+                  | database.js
+                  |
+              📂controllers    
+                  |
+                  | authController.js
+                  | medicacaoController.js
+                  | pacienteController.js
+                  |
+              📂middlewares
+                  |
+                  | auth.js
+                  |
+              📂models
+                  |  
+                  | MedicacaoSchema.js
+                  | PacienteSchema.js
+                  | UserSchema.js
+                  |     
+              📂routes
+                  | 
+                  | medicacaoRoutes.js
+                  | pacienteRoutes.js
+                  |
+
 
 ## **Rotas**
 Esta API está sendo executada na `porta 9095` e para que todas as rotas possam ser acessadas localmente é necessário usar `http://localhost:9095/` antes dos endpoints de requisição.
@@ -68,6 +109,7 @@ Esta API está sendo executada na `porta 9095` e para que todas as rotas possam 
 - [ ] Integração ao front-end 
 - [ ] Testes
 - [ ] Desenvolvimento do Alarme
+- [ ] Etiquetas de identificação para impressão
 - [ ] Desenvolvimento de Registro/cadastramento de Receita - scanner e foto
 
 ##
