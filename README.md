@@ -89,7 +89,6 @@ Esta API está sendo executada na `porta 9095` e para que todas as rotas possam 
 |POST | /login | Cria um login de acesso ao aplicativo|
 |GET | /users | Retorna o usuário cadastrado no aplicativo|
 |------|------|----------|
-|------|------|----------|
 |VERBO | ENDPOINT | DESCRIÇÃO|
 |------|------|----------|
 |POST | /criarpaciente| Cadastra um novo paciente no Aplicativo|
@@ -97,6 +96,7 @@ Esta API está sendo executada na `porta 9095` e para que todas as rotas possam 
 |GET | /paciente/:id| Retorna o paciente pelo id informado|
 |PATCH | /:id | Atualiza os dados do paciente escolhido|
 |DELETE | /:id | Delete o paciente escolhido do aoplicativo| 
+|------|------|----------|
 |VERBO | ENDPOINT | DESCRIÇÃO|
 |------|------|----------|
 |POST | /criarmedicacao | Cadastra uma nova medicação no aplicativo|
