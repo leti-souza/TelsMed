@@ -20,7 +20,7 @@ idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a
 
 
 ## **Tema**
-TelsMed - Minha Farmácia! É uma API que visa para auxiliar idosos e/ou seus responsáveis na utilização correta dos medicamentos no dia-a-dia.A escolha desse tema é uma forma de homenagear a minha avó materna, Telma Araújo, que por muitos anos utilizou medicamentos para controlar a hipertensão. 
+TelsMed - Minha Farmácia! É uma API que visa para auxiliar idosos e/ou seus responsáveis na utilização correta dos medicamentos no dia-a-dia. A escolha desse tema também é uma forma de homenagear a minha avó materna, Telma Araújo, que por muitos anos utilizou medicamentos para controlar a hipertensão. 
 
 ## **Problema**
 De acordo com uma pesquisa de campo realizada com três agentes de saúde da Upinha Alto do Pascoal, situada na comunidade do Alto do Pascoal no bairro de água fria - Recife/PE. 
@@ -88,6 +88,10 @@ Esta API está sendo executada na `porta 9095` e para que todas as rotas possam 
 |POST | /create | Cria um usuário para acessar o app TelsMed|
 |POST | /login | Cria um login de acesso ao aplicativo|
 |GET | /users | Retorna o usuário cadastrado no aplicativo|
+|------|------|----------|
+|------|------|----------|
+|VERBO | ENDPOINT | DESCRIÇÃO|
+|------|------|----------|
 |POST | /criarpaciente| Cadastra um novo paciente no Aplicativo|
 |GET | /paciente| Retorna uma lista com todos os pacientes cadastrados no app|
 |GET | /paciente/:id| Retorna o paciente pelo id informado|
@@ -118,6 +122,13 @@ _O aplicativo TelsMed, é um app fictício para a elaboração do projeto final 
 
 ##
 
+## **Desenvolvedora**
+<!-- <img src='./assets/foto.jpg' width = 1200 alt = 'foto autora'> | --> 
+Sou uma profissional com 6 anos de experiência na área da educação, como professora de inglês, onde ministrei aulas para alunos de diferentes níveis e, com essa experiência, pude desenvolver habilidades de comunicação, empatia adaptação. Atualmente sou uma desenvolvedora backend Jr, graduanda em Ciência da Computação, formada pelo bootcamp {Reprograma}, que capacita mulheres para o mercado tecnológico. No bootcamp, aprendi a desenvolver APIs rest, trabalhando em equipe ou individualmente. Atualmente desenvolvo APIs utilizando JavaScript e Node.js, com banco de dados MongoDB, criptografia através de JWT, testes com Jest, conteinerinação com Docker e versionamento de código com GIT. |
+
+
+
+---
 
 
 Conecte-se comigo! 

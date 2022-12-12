@@ -41,7 +41,8 @@ const criarMedicacao = async (request, response) => { //ok
         })
         const salvarMedicacao = await medicacao.save();
         response.status(201).json({
-            cozinha: salvarMedicacao
+            Prezados: "Medicação cadastrada com sucesso!",
+            salvarMedicacao
         })
 
     } catch (error) {
