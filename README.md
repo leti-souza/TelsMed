@@ -1,6 +1,6 @@
 
 <h3 align="center"> 
-<img src='./assets/TELSMED-LOGO.png' height= 220 width= 320>
+<img src='./assets/TELSMED-LOGO.png' height= 320 width= 420>
 </h3>
 
 <div align = "center">
@@ -110,7 +110,7 @@ Esta API está sendo executada na `porta 9095` e para que todas as rotas possam 
 
 ##
 
-#### **Implementações futuras**
+## **Implementações futuras**
 
 - [ ] Integração ao front-end 
 - [ ] Testes
