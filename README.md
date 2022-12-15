@@ -1,6 +1,6 @@
 
 <h3 align="center"> 
-<img src='./assets/TELSMED-LOGO.png' height= 320 width= 420>
+<img src='./assets/TELSMED-LOGO.png' height= 220 width= 320>
 </h3>
 
 <div align = "center">
@@ -17,7 +17,7 @@ idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a
 - [Objetivo](#objetivo)
 - [Arquitetura](#arquitetura)
 - [Rotas](#rotas)
-- [Implementações-futuras](#Implementações futuras)
+- [Implementações futuras](#Implementações-futuras)
 - [Desenvolvedora](#desenvolvedora)
 
 
