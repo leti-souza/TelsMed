@@ -1,6 +1,6 @@
 
 <h3 align="center"> 
-<img src='./assets/TELSMED-LOGO.png' height= 420 width= 520>
+<img src='./assets/TELSMED-LOGO.png' height= 420 width= 420>
 </h3>
 
 <div align = "center">
@@ -14,8 +14,11 @@ idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a
 
 - [Tema](#tema)
 - [Problema](#problema)
+- [Objetivo](#objetivo)
 - [Arquitetura](#arquitetura)
 - [Rotas](#rotas)
+- [Implementaçõesfuturas](#Implementações futuras)
+- [Desenvolvedora](#desenvolvedora)
 
 
 ## **Tema**
@@ -122,7 +125,7 @@ _O aplicativo TelsMed, é um app fictício para a elaboração do projeto final 
 ## **Desenvolvedora**
  |Autora|Sobre|
 |:------:|----|
-|<img src='./assets/foto.jpeg' width = 680 alt = 'foto autora'> | Me chamo Letícia Araújo, sou de Recife-PE. Sou formada em Arquitetura e Urbanismo pela UNINASSAU - Recife e em Segurança do trabalho pelo SENAI- PE. No momento estou em transição de carreira para área de programação/TI - Back-end no programa todas em tech da {reprograma}. Sempre gostei de aprender algo novo e com a programação não foi diferente, falo sempre que foi amor ao primeiro código 😄. Dentre as minhas Habilidades, gosto sempre de destacar a minha criatividade, pois sempre procuro uma forma criativa de fazer algo. Sou mãe de alguns pets, minha baby dog 🐶mais velha, Pitty, dois lindos cats 🐱, um de de 6 anos e outro de 2 anos, mas tive 6 lindos cats, e um jabutí🐢😊. |
+|<img src='./assets/foto.jpeg' width = 880 alt = 'foto autora'> | Me chamo Letícia Araújo, sou de Recife-PE. Sou formada em Arquitetura e Urbanismo pela UNINASSAU - Recife e em Segurança do trabalho pelo SENAI- PE. No momento estou em transição de carreira para área de programação/TI - Back-end no programa todas em tech da {reprograma}. Sempre gostei de aprender algo novo e com a programação não foi diferente, falo sempre que foi amor ao primeiro código 😄. Dentre as minhas Habilidades, gosto sempre de destacar a minha criatividade, pois sempre procuro uma forma criativa de fazer algo. Sou mãe de alguns pets, minha baby dog 🐶mais velha, Pitty, dois lindos cats 🐱, um de de 6 anos e outro de 2 anos, mas tive 6 lindos cats, e um jabutí🐢😊. |
 
 ---
 
