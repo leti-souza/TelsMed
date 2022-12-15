@@ -1,6 +1,6 @@
 
 <h3 align="center"> 
-<img alt="TELSMED-LOGO" height="180" width="280"  assets="TELSMED-LOGO.png"><br> 
+<img alt="TELSMED-LOGO" height="180" width="280"  src="TELSMED-LOGO.png"><br> 
 </h3>
 
 <div align = "center">
