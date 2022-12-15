@@ -121,10 +121,9 @@ _O aplicativo TelsMed, é um app fictício para a elaboração do projeto final 
 ##
 
 ## **Desenvolvedora**
-<!-- <img src='./assets/foto.jpg' width = 1200 alt = 'foto autora'> | --> 
-Sou uma profissional com 6 anos de experiência na área da educação, como professora de inglês, onde ministrei aulas para alunos de diferentes níveis e, com essa experiência, pude desenvolver habilidades de comunicação, empatia adaptação. Atualmente sou uma desenvolvedora backend Jr, graduanda em Ciência da Computação, formada pelo bootcamp {Reprograma}, que capacita mulheres para o mercado tecnológico. No bootcamp, aprendi a desenvolver APIs rest, trabalhando em equipe ou individualmente. Atualmente desenvolvo APIs utilizando JavaScript e Node.js, com banco de dados MongoDB, criptografia através de JWT, testes com Jest, conteinerinação com Docker e versionamento de código com GIT. |
+<img src='./assets/foto.jpeg' width = 1200 alt = 'foto autora'> | 
 
-
+Me chamo Letícia Araújo, sou de Recife-PE. Sou formada em Arquitetura e Urbanismo pela UNINASSAU - Recife e em Segurança do trabalho pelo SENAI- PE. No momento estou em transição de carreira para área de programação/TI - Back-end no programa todas em tech da {reprograma}. Sempre gostei de aprender algo novo e com a programação não foi diferente, falo sempre que foi amor ao primeiro código 😄. Dentre as minhas Habilidades, gosto sempre de destacar a minha criatividade, pois sempre procuro uma forma criativa de fazer algo. Sou mãe de alguns pets, minha baby dog 🐶mais velha, Pitty, dois lindos cats 🐱, um de de 6 anos e outro de 2 anos, mas tive 6 lindos cats, e um jabutí🐢😊.
 
 ---
 

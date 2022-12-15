@@ -42,12 +42,12 @@ const getAll = async (req, res) => {  //ok
 const criarPaciente = async (request, response) => { //ok
     const { id, nome, cpf, nascimento, sexo, estado, cidade, telefone, comorbidades} = request.body;
 
-    const buscaCidade = await PacienteSchema.find({ cidade: cidade })
+    const buscaComorbidades = await PacienteSchema.find({ comorbidades: comorbidades })
    
-    let ExisteCidade = buscaCidade.filter((paciente) => paciente.cidade === cidade)
+    let ExisteComorbidades = buscaComorbidades.filter((paciente) => paciente.comorbidades === comorbidades)
     
-    let nomeExisteCidade = ExisteCidade.find((paciente) => paciente.nome === nome)
-    if (nomeExisteCidade) {
+    let nomeExisteComorbidades = ExisteComorbidades.find((paciente) => paciente.nome === nome)
+    if (nomeExisteComorbidades) {
         return response.status(404).json({ 
         message: `Não é possível cadastrar este paciente, nome de cidade já existente em nosso sistema!` });
     }
