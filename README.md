@@ -5,7 +5,7 @@
 
 <div align = "center">
 
-Projeto final para o bootcamp {reprograma} back-end. Aplicativo voltado para auxiliar
+>Projeto final para o bootcamp {reprograma} back-end. Aplicativo voltado para auxiliar
 idosos e/ou seus responsáveis na utilização correta da medicações. Acesse a apresentação [aqui!](https://www.canva.com/design/DAFTvGGYSoE/lxvOv3JC_Hvq9keKt4BmLg/view?utm_content=DAFTvGGYSoE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 </div>
